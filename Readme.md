@@ -49,10 +49,10 @@ L'interfaccia richiama un’estetica **gotica** e **oscura**, con icone ispirate
 
 ## 🛠️ Requisiti Tecnici
 
-- Linguaggio: (inserire es. Python, PHP, JavaScript, ecc.)
-- Database: (es. MySQL, SQLite, MongoDB)
-- Ambiente: Web/Desktop
-- Compatibilità: Windows, Linux, macOS
+- Linguaggio: C#
+- Database: SqlServer
+- Ambiente: Desktop
+- Compatibilità: Windows
 
 ---
 
