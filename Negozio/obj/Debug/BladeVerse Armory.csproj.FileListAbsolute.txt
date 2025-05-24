@@ -1,0 +1,277 @@
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Negozio.exe.config
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Negozio.exe
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Negozio.pdb
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Identity.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Buffers.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Memory.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.ValueTuple.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.Identity.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.Identity.Core.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Buffers.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Memory.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.ValueTuple.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\BladeVerse Armory.csproj.AssemblyReference.cache
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.FrmMain.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.Properties.Resources.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.FrmAdmin.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmAggiuntaCommesso.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmAggiuntaFornitore.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmModificaCommesso.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\BladeVerse Armory.csproj.GenerateResource.cache
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\BladeVerse Armory.csproj.CoreCompileInputs.cache
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\BladeVer.89BD0029.Up2Date
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.exe
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.pdb
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmModficaFornitore.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmAggiuntaArticolo.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmModificaArticolo.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.FrmCommesso.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmReimpostaPassword.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmArticoli.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.FrmCassa.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Guna.UI2.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\RestSharp.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.CodeDom.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Text.Json.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\RestSharp.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.CodeDom.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.Text.Json.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmEliminaCommesso.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmEliminaArticolo.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmEliminaFornitore.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmPagamentoCassa.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\DocumentFormat.OpenXML.Extensions.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmGestioneAdmin.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmGestioneClienti.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmAggiuntaCliente.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmModificaCliente.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmEliminaCliente.resources
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\zxing.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\zxing.presentation.dll
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\zxing.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\bin\Debug\zxing.presentation.xml
+C:\Users\ndnic\Desktop\Negozio\Negozio\obj\Debug\Negozio.View.UC.FrmAggiuntaAdmin.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Negozio.exe.config
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Negozio.exe
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Negozio.pdb
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\DocumentFormat.OpenXML.Extensions.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Guna.UI2.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Identity.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\RestSharp.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Buffers.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.CodeDom.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Memory.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Text.Json.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.ValueTuple.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\zxing.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\zxing.presentation.dll
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.Identity.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.Identity.Core.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\RestSharp.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Buffers.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.CodeDom.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Memory.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Text.Json.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\System.ValueTuple.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\zxing.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\bin\Debug\zxing.presentation.xml
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\BladeVerse Armory.csproj.AssemblyReference.cache
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.FrmMain.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.Properties.Resources.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.FrmAdmin.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.FrmCassa.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.FrmCommesso.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmAggiuntaAdmin.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmAggiuntaArticolo.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmAggiuntaCliente.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmAggiuntaCommesso.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmAggiuntaFornitore.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmArticoli.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmEliminaArticolo.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmEliminaCliente.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmEliminaCommesso.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmEliminaFornitore.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmGestioneAdmin.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmGestioneClienti.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmModficaFornitore.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmModificaCliente.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmModificaCommesso.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmModificaArticolo.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmPagamentoCassa.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmReimpostaPassword.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\BladeVerse Armory.csproj.GenerateResource.cache
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\BladeVerse Armory.csproj.CoreCompileInputs.cache
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\BladeVer.89BD0029.Up2Date
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.exe
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.pdb
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmModificaAdmin.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.UC.FrmEliminaAdmin.resources
+C:\Users\ndnic\Desktop\BladeVerse armory\Negozio\obj\Debug\Negozio.View.FrmReport.resources

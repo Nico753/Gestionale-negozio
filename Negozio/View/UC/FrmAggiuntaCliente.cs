@@ -1,0 +1,97 @@
+﻿using Negozio.Controllers;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Negozio.View.UC
+{
+    public partial class FrmAggiuntaCliente : UserControl
+    {
+        GestoreDbNegozio dbNegozio = new GestoreDbNegozio();
+        GestoreDelegate gestoreDelegate;
+        GestoreRegex gestoreRegex = new GestoreRegex();
+        public FrmAggiuntaCliente(GestoreDelegate _gestoreDelegate)
+        {
+            InitializeComponent();
+            gestoreDelegate = _gestoreDelegate;
+        }
+
+        private void BtnAggiungi_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                VerificaCampi();
+                int codiceCliente = dbNegozio.AggiungiCliente(TxtNome.Text, TxtCognome.Text, TxtEmail.Text, TxtTelefono.Text);
+                MessageBox.Show("Cliente aggiunto con successo !", "SUCCESSO", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                gestoreDelegate.NotificaClienteEvidenziato(codiceCliente);
+                PulisciCampi();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Errore", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void PulisciCampi()
+        {
+            TxtNome.Clear();
+            TxtNome.FillColor = Color.White;
+
+            TxtTelefono.Clear();
+            TxtTelefono.BackColor = Color.White;
+
+            TxtEmail.Clear();
+            TxtEmail.BackColor = Color.White;
+
+            TxtCognome.Clear();
+            TxtCognome.BackColor = Color.White;
+        }
+
+        private void VerificaCampi()
+        {
+            if (!gestoreRegex.RegexMatch(TxtNome.Text, @"^[a-zA-Z ']{2,}$"))
+                throw new Exception("Campo nome non valido");
+            if (!string.IsNullOrEmpty(TxtCognome.Text))
+                if (!gestoreRegex.RegexMatch(TxtCognome.Text, @"^[a-zA-Z ']{2,}$"))
+                    throw new Exception("Campo cognome non valido");
+            if (!gestoreRegex.RegexMatch(TxtEmail.Text, @"^[\w\.-]+@[\w\.-]+\.[a-zA-Z]{2,}$"))
+                throw new Exception("Campo email non valido");
+            if (!string.IsNullOrEmpty(TxtTelefono.Text))
+                if (!gestoreRegex.RegexMatch(TxtTelefono.Text, @"^\d{10}$"))
+                    throw new Exception("Campo telefono non valido");
+        }
+
+        private void TxtNome_TextChanged(object sender, EventArgs e)
+        {
+            gestoreRegex.RegexNome(TxtNome);
+        }
+
+        private void TxtCognome_TextChanged(object sender, EventArgs e)
+        {
+            gestoreRegex.RegexCognome(TxtCognome);
+        }
+
+        private void TxtTelefono_TextChanged(object sender, EventArgs e)
+        {
+            gestoreRegex.RegexTelefono(TxtTelefono);
+        }
+
+        private void TxtEmail_TextChanged(object sender, EventArgs e)
+        {
+            gestoreRegex.RegexEmail(TxtEmail);
+        }
+        private void TxtTelefono_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsDigit(e.KeyChar) && e.KeyChar != (char)8)
+            {
+                e.Handled = true;
+            }
+        }
+    }
+}

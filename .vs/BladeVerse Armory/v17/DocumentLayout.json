@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ndnic\\Desktop\\BladeVerse armory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3967DEAB-ABF1-4237-802B-DF3403ABE135}|Negozio\\BladeVerse Armory.csproj|c:\\users\\ndnic\\desktop\\bladeverse armory\\negozio\\controllers\\gestoredbnegozio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3967DEAB-ABF1-4237-802B-DF3403ABE135}|Negozio\\BladeVerse Armory.csproj|solutionrelative:negozio\\controllers\\gestoredbnegozio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3967DEAB-ABF1-4237-802B-DF3403ABE135}|Negozio\\BladeVerse Armory.csproj|C:\\Users\\ndnic\\Desktop\\BladeVerse armory\\negozio\\view\\uc\\frmeliminafornitore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3967DEAB-ABF1-4237-802B-DF3403ABE135}|Negozio\\BladeVerse Armory.csproj|solutionrelative:negozio\\view\\uc\\frmeliminafornitore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3967DEAB-ABF1-4237-802B-DF3403ABE135}|Negozio\\BladeVerse Armory.csproj|C:\\Users\\ndnic\\Desktop\\BladeVerse armory\\negozio\\view\\uc\\frmeliminafornitore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3967DEAB-ABF1-4237-802B-DF3403ABE135}|Negozio\\BladeVerse Armory.csproj|solutionrelative:negozio\\view\\uc\\frmeliminafornitore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3967DEAB-ABF1-4237-802B-DF3403ABE135}|Negozio\\BladeVerse Armory.csproj|C:\\Users\\ndnic\\Desktop\\BladeVerse armory\\negozio\\view\\uc\\frmeliminaarticolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3967DEAB-ABF1-4237-802B-DF3403ABE135}|Negozio\\BladeVerse Armory.csproj|solutionrelative:negozio\\view\\uc\\frmeliminaarticolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3967DEAB-ABF1-4237-802B-DF3403ABE135}|Negozio\\BladeVerse Armory.csproj|C:\\Users\\ndnic\\Desktop\\BladeVerse armory\\negozio\\view\\uc\\frmeliminaarticolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3967DEAB-ABF1-4237-802B-DF3403ABE135}|Negozio\\BladeVerse Armory.csproj|solutionrelative:negozio\\view\\uc\\frmeliminaarticolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestoreDbNegozio.cs",
+              "DocumentMoniker": "C:\\Users\\ndnic\\Desktop\\BladeVerse armory\\Negozio\\Controllers\\GestoreDbNegozio.cs",
+              "RelativeDocumentMoniker": "Negozio\\Controllers\\GestoreDbNegozio.cs",
+              "ToolTip": "C:\\Users\\ndnic\\Desktop\\BladeVerse armory\\Negozio\\Controllers\\GestoreDbNegozio.cs",
+              "RelativeToolTip": "Negozio\\Controllers\\GestoreDbNegozio.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowFEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:31:33.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmEliminaFornitore.cs",
+              "DocumentMoniker": "C:\\Users\\ndnic\\Desktop\\BladeVerse armory\\Negozio\\View\\UC\\FrmEliminaFornitore.cs",
+              "RelativeDocumentMoniker": "Negozio\\View\\UC\\FrmEliminaFornitore.cs",
+              "ToolTip": "C:\\Users\\ndnic\\Desktop\\BladeVerse armory\\Negozio\\View\\UC\\FrmEliminaFornitore.cs",
+              "RelativeToolTip": "Negozio\\View\\UC\\FrmEliminaFornitore.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:31:09.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmEliminaFornitore.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\ndnic\\Desktop\\BladeVerse armory\\Negozio\\View\\UC\\FrmEliminaFornitore.cs",
+              "RelativeDocumentMoniker": "Negozio\\View\\UC\\FrmEliminaFornitore.cs",
+              "ToolTip": "C:\\Users\\ndnic\\Desktop\\BladeVerse armory\\Negozio\\View\\UC\\FrmEliminaFornitore.cs [Progettazione]",
+              "RelativeToolTip": "Negozio\\View\\UC\\FrmEliminaFornitore.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:31:08.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmEliminaArticolo.cs",
+              "DocumentMoniker": "C:\\Users\\ndnic\\Desktop\\BladeVerse armory\\Negozio\\View\\UC\\FrmEliminaArticolo.cs",
+              "RelativeDocumentMoniker": "Negozio\\View\\UC\\FrmEliminaArticolo.cs",
+              "ToolTip": "C:\\Users\\ndnic\\Desktop\\BladeVerse armory\\Negozio\\View\\UC\\FrmEliminaArticolo.cs",
+              "RelativeToolTip": "Negozio\\View\\UC\\FrmEliminaArticolo.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:30:58.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmEliminaArticolo.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\ndnic\\Desktop\\BladeVerse armory\\Negozio\\View\\UC\\FrmEliminaArticolo.cs",
+              "RelativeDocumentMoniker": "Negozio\\View\\UC\\FrmEliminaArticolo.cs",
+              "ToolTip": "C:\\Users\\ndnic\\Desktop\\BladeVerse armory\\Negozio\\View\\UC\\FrmEliminaArticolo.cs [Progettazione]",
+              "RelativeToolTip": "Negozio\\View\\UC\\FrmEliminaArticolo.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:30:57.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
